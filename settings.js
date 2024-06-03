@@ -19,7 +19,7 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V13' //ur bot name
+global.botname = 'Cheems Bot MD V12' //ur bot name
 global.ownernumber = '+237698793862' //ur owner number
 global.ownername = '꧁༒𝑴𝒖𝒓𝒌𝒚 𝒅𝒆𝒔𝒌ꪶ࿋྄ིᤢꫂ𝑮𝒐𝒋𝒐⁖℘༒' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
